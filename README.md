@@ -8,7 +8,6 @@
 2. Redux Toolkit
 3. Axios
 4. Typescript
-5. TailwindCSS
 
 ### Back, DB:
 
